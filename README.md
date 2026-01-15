@@ -1,89 +1,82 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Ali%20Hamza&fontSize=80&animation=twinkling&desc=Full%20Stack%20Engineer%20|%20AI%20Automation%20Architect&descSize=25&descAlignY=65" width="100%" />
 
-  <br/>
-
-  <img src="https://img.shields.io/badge/Current_Stack-React_%7C_Flutter_%7C_Python-6a11cb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Lahore,_PK-2575fc?style=for-the-badge" />
-  
-  <br/>
-
-  <a href="mailto:hamaza7867@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x2technologies.pk"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+╼╼╼╼╼╼╼╼ SYSTEM OPERATIONAL: ALI HAMZA ╾╾╾╾╾╾╾╾
 
 </div>
 
----
+📂 SYSTEM_PROFILE.log
 
-### 🚀 The Mission
-I am an **Information & Engineering Technology** student at **UOL** and a **Web Developer** at **X2technologies**. I specialize in creating intelligent ecosystems that bridge the gap between high-end web architecture and autonomous AI agents.
+identity:
+  name: Ali Hamza
+  origin: Lahore, PK 🇵🇰
+  status: 5th Sem @ UOL | Web Dev @ X2technologies
+  focus: [Autonomous AI Agents, Headless E-Commerce, Embedded Security]
+  mission: "Architecting the intersection of hardware and neural workflows."
 
----
 
-### 🛠️ The Laboratory (Core Specializations)
+🧠 NEURAL CORE (AGENTIC AI & AUTOMATION)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Intelligence & Automation</h4>
-      <ul>
-        <li><b>PocketMind AI:</b> Cross-platform Flutter engine for LLM orchestration.</li>
-        <li><b>Agentic Workflows:</b> Multi-agent systems using <code>CrewAI</code> and <code>n8n</code>.</li>
-        <li><b>Edge AI:</b> Deploying <code>Ollama</code> for local-first intelligence.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Web & Hardware</h4>
-      <ul>
-        <li><b>E-Commerce:</b> Headless Shopify & custom Liquid architectures.</li>
-        <li><b>Enterprise Web:</b> Scalable PHP/React solutions for ISPs and Directories.</li>
-        <li><b>Bare Metal:</b> Register-level Arduino (C++) for biometric security locks.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Processing complex workflows using modern AI orchestration.
 
----
+PocketMind AI Framework: Designing multi-model interfaces using Flutter & Dart for local/cloud LLM switching.
 
-### 📊 System Metrics (Live Data)
+Autonomous Pipelines: Engineering self-healing workflows via n8n, LangChain, and CrewAI.
+
+Edge Intelligence: Implementing Ollama for privacy-centric local intelligence on distributed nodes.
+
+🌐 DIGITAL INFRASTRUCTURE (WEB & CLOUD)
+
+Building scalable, high-performance web ecosystems.
+
+Headless E-commerce: Advanced Shopify Liquid architecture for brands like Gleamix and Glowverra.
+
+Enterprise Solutions: Architecting ISP Management Systems and Local Business Directories with WordPress/PHP.
+
+DevOps Kernel: Automated CI/CD pipelines leveraging Jenkins, SonarQube, and AWS (EC2) for zero-downtime deployments.
+
+⚡ HARDWARE INTERFACE (EMBEDDED SYSTEMS)
+
+Low-level programming and physical security modules.
+
+Biometric Security: Developing Fingerprint & RFID access control via Register-Level Arduino (C++).
+
+IoT Prototyping: Bridging physical sensors with cloud-based monitoring dashboards.
+
+🛠️ TECH_STACK.bin
+
+Layer
+
+Technologies
+
+Logic
+
+Python JavaScript PHP C++ Dart SQL
+
+Interface
+
+React.js Flutter Next.js Tailwind
+
+Platforms
+
+Shopify WordPress AWS GitHub Actions
+
+Intelligence
+
+n8n LangChain CrewAI Ollama
+
+📈 SYSTEM_METRICS
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&no-frame=true&column=7&margin-w=15" alt="trophies" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyourusername%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D2575fc%26icon_color%3D2575fc%26text_color%3Dffffff%26bg_color%3D0D1117" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyourusername%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D2575fc%26text_color%3Dffffff%26bg_color%3D0D1117" width="45%" />
 </div>
 
----
+📡 COMMS_PROTOCOL
 
-### 🛠️ Hardware & Software Toolkit
+$contact --email hamaza7867@gmail.com$ connect --linkedin "Ali Hamza"
+$ status --agency "Cyphex Agency"
 
-| Domain | Technolgies |
-| :--- | :--- |
-| **Frontend** | `React.js` `Flutter` `Tailwind` `Elementor` |
-| **Backend** | `Node.js` `PHP` `Python` `MySQL` `PostgreSQL` |
-| **Embedded** | `C++` `Arduino` `ESP32` `RFID/Biometrics` |
-| **DevOps** | `AWS` `Jenkins` `SonarQube` `Docker` |
-
----
-
-### ⚡ Professional Flow
-- 🔭 Working on **Cyphex Agency** — Redefining digital service delivery.
-- 🌱 Mastering **Agentic AI** and **Cybersecurity infrastructure**.
-- 💬 Ask me about **Shopify Optimization** or **Register-level Embedded C**.
-- 🥅 Goals: Securing a fully funded engineering scholarship abroad.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2575fc&width=435&lines=Building+Scalable+Solutions;Architecting+AI+Agents;Engineering+The+Future" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D2575fc%26height%3D100%26section%3Dfooter" width="100%" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mshibanami/GitHub-Activity-Graph/master/res/example.png" width="100%" alt="Activity Graph Placeholder" />
-  <br/>
-  <i>"Always learning, always building."</i>
-</p>
