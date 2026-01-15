@@ -1,74 +1,76 @@
 <div align="center">
-  <br />
-  <h1>🚀 ALI HAMZA</h1>
-  <p><strong>Software Engineer | Founder of Cyphex Agency | Web Systems Specialist</strong></p>
-  <p><i>Transforming complex problems into scalable digital solutions.</i></p>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=ALI%20HAMZA&fontSize=80&animation=fadeIn" width="100%" />
   
-  <br />
-
-  <a href="https://hamaza7867.github.io/Portfolio/"><b>View Live Portfolio</b></a> • 
-  <a href="mailto:hamaza7867@gmail.com"><b>Contact Me</b></a> • 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><b>LinkedIn</b></a>
+  <h3>🚀 Software Engineer | Web Specialist | Founder of Cyphex Agency</h3>
   
-  <br /><br />
-  <hr />
+  <p>
+    <a href="https://hamaza7867.github.io/Portfolio/"><b>PORTFOLIO</b></a> • 
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><b>LINKEDIN</b></a> • 
+    <a href="mailto:hamaza7867@gmail.com"><b>GMAIL</b></a>
+  </p>
 </div>
-
-### 👨‍💻 Executive Summary
-[cite_start]I am a dedicated **Web Developer** specializing in e-commerce optimization and dynamic web systems[cite: 4]. [cite_start]Currently a **5th-semester student** at **The University of Lahore** with a **3.46 CGPA**, I balance academic excellence with professional roles at **Lineup Digital** and **X2technologies**[cite: 56, 57, 58, 59]. As the founder of **Cyphex Agency**, I am currently architecting **Cyphex Core**, an AI-driven automation SaaS.
 
 ---
 
-### 🛠️ Technical Stack
+### ⚡ EXEC_SUMMARY.sh
+* [cite_start]**Current Status:** 5th Semester BSIET Student @ **The University of Lahore** (3.46 CGPA).
+* [cite_start]**Current Role:** Web Developer at **X2technologies** & WordPress Developer at **Lineup Digital**.
+* **Core Venture:** Architecting **Cyphex Core**, an AI SaaS for autonomous WordPress repair.
+* [cite_start]**Education:** Engineering background with A+ Grade in Matriculation Science.
+
+---
+
+### 🛠️ TECHNOLOGICAL ARSENAL (Grid View)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,tailwind,react,flutter,dart,py,php,mysql,aws,jenkins,github" />
+</div>
+
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <strong>Core Engineering</strong><br />
-      • Java & JavaScript [cite: 10]<br />
-      • Python & PHP [cite: 16, 19]<br />
-      • C & C++ [cite: 17, 18]
+    <td width="50%" align="center"><strong>Frontend & UI</strong></td>
+    <td width="50%" align="center"><strong>Backend & Systems</strong></td>
+  </tr>
+  <tr>
+    <td>
+      • Tailwind CSS & React Development<br>
+      • WordPress & Shopify Customization <br>
+      • Responsive HTML/CSS Architectures 
     </td>
-    <td width="33%" valign="top">
-      <strong>Modern Web</strong><br />
-      • Tailwind CSS & React<br />
-      • WordPress (Custom) [cite: 9]<br />
-      • Shopify & Liquid [cite: 9]
-    </td>
-    <td width="33%" valign="top">
-      <strong>Operations</strong><br />
-      • Git & GitHub [cite: 21]<br />
-      • AWS & Jenkins<br />
-      • Technical SEO [cite: 11]
+    <td>
+      • Java, C++, and Python Logic <br>
+      • Groq AI & API Integration<br>
+      • AWS Infrastructure & CI/CD Pipelines
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Featured Deployments (The Project Gallery)
+### 💎 FEATURED DEPLOYMENTS
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h4>📦 Olympia Carrier Services</h4>
-      <p>A professional business hub for car carrier logistics[cite: 41].</p>
-      <a href="https://olympiacarrierservices.com/"><code>Visit Project</code></a>
+    <td>
+      <b>📦 Olympia Carrier Services</b><br>
+      <i>Business infrastructure for logistics.</i><br>
+      <a href="https://olympiacarrierservices.com/"><code>Live Deployment</code></a> 
     </td>
-    <td width="50%">
-      <h4>⚙️ AH-TECH Management</h4>
-      <p>Custom web app for inventory and automated invoice generation.</p>
-      <a href="https://alihamza835.github.io/AH-TECH/index.html"><code>Visit Project</code></a>
+    <td>
+      <b>⚙️ AH-TECH Management</b><br>
+      <i>Custom invoicing & inventory system.</i><br>
+      <a href="https://alihamza835.github.io/AH-TECH/index.html"><code>Web App</code></a> 
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h4>🛍️ Gleamix Store</h4>
-      <p>Comprehensive Shopify tech gadget store with custom SEO[cite: 49].</p>
-      <a href="https://www.gleamix.store/"><code>Visit Project</code></a>
+    <td>
+      <b>🛍️ Gleamix Store</b><br>
+      <i>Optimized Shopify Tech Hub.</i><br>
+      <a href="https://www.gleamix.store/"><code>E-commerce</code></a> 
     </td>
-    <td width="50%">
-      <h4>🤖 Cyphex Core (AI SaaS)</h4>
-      <p>Autonomous maintenance system for WordPress fixing.</p>
+    <td>
+      <b>🤖 Cyphex Core (SaaS)</b><br>
+      <i>AI-powered WordPress healing system.</i><br>
       <code>Internal Beta</code>
     </td>
   </tr>
@@ -76,13 +78,15 @@
 
 ---
 
-### 🎓 Academic & Languages
-- [cite_start]**Education:** BSIET @ The University of Lahore[cite: 57].
-- [cite_start]**Foundation:** Matriculation (A+) and ICS (Computer Science)[cite: 60, 63, 64].
-- [cite_start]**Languages:** Fluent English, Native Urdu, and Native Punjabi[cite: 66, 67, 68].
+### 📊 SYSTEM ANALYTICS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamaza7867&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamaza7867&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<br />
+---
 
 <div align="center">
-  <p><i>"Continuously learning, building, and scaling."</i></p>
+  <i>"Building the digital future, one line of code at a time."</i><br>
+  [cite_start]<b>Language Proficiency: English (Fluent), Urdu (Native), Punjabi (Native)</b> 
 </div>
