@@ -1,84 +1,87 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=200&section=header&text=Ali%20Hamza&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=ALI%20HAMZA&fontSize=90&animation=fadeIn&fontAlignY=35&desc=FOUNDER%20%40%20CYPHEX%20AGENCY%20|%20WEB%20ENGINEER&descSize=20&descAlignY=60" width="100%" />
 
-  <p align="center">
-    <strong>Web Developer @ X2technologies | Founder of Cyphex Agency</strong>
-  </p>
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Building+the+Future+of+AI+SaaS;Mastering+Flutter+%26+Dart;Scaling+Digital+Agencies;5th+Sem+@+UOL+University" alt="Typing SVG" />
+  </h3>
 
-  <p align="center">
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+    <a href="https://cyphex.agency"><img src="https://img.shields.io/badge/-Portfolio-00B4D8?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### ⚡ The Blueprint
-I am a **BSIET Student (5th Sem)** at the **University of Lahore**, specializing in bridging the gap between automated AI systems and modern web architecture. Currently, I am scaling **Cyphex Agency** and developing **Cyphex Core**—a specialized SaaS for autonomous WordPress maintenance.
-
-- 🔭 **Current Focus:** Architecting `Cyphex Core` using Python & Groq API.
-- 📱 **Mobile:** Engineering cross-platform solutions like `PocketMind AI` with Flutter/Dart.
-- 🎓 **Academic:** Researching AI & Machine Learning for international scholarship opportunities.
-- 🏮 **Interest:** Isekai enthusiast—fascinated by world-building and magic systems.
-
----
-
-### 🛠️ Technical Arsenal
-
+### 🌌 **Core Operations**
 <table align="center">
-  <tr>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Mobile</strong></td>
-    <td align="center" width="25%"><strong>Backend/AI</strong></td>
-    <td align="center" width="25%"><strong>Operations</strong></td>
-  </tr>
-  <tr>
-    <td>
-      • React.js<br>
-      • WordPress<br>
-      • Elementor<br>
-      • Shopify
-    </td>
-    <td>
-      • Flutter<br>
-      • Dart
-    </td>
-    <td>
-      • Python<br>
-      • Groq API<br>
-      • MySQL<br>
-      • ML Models
-    </td>
-    <td>
-      • AWS<br>
-      • Jenkins<br>
-      • SonarQube
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+**`System.profile`**
+- 🎓 **Status:** BSIET Undergrad @ UOL (5th Sem)
+- 🏢 **Role:** Web Developer @ X2technologies
+- 🚀 **Mission:** Architecting **Cyphex Core** — AI-driven WP automation.
+- 🎯 **Goal:** Global Engineering Scholarship Path.
+
+</td>
+<td width="50%">
+
+**`System.stack`**
+- 💻 **Web:** React | WordPress | Shopify
+- 📱 **Mobile:** Flutter | Dart
+- 🧠 **AI/Backend:** Python | Groq API | MySQL
+- ☁️ **DevOps:** AWS | Jenkins | SonarQube
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 💎 Featured Ventures
-
-> **[Cyphex Core](https://github.com/YOUR_USERNAME)** > *An AI-powered SaaS designed to diagnose and repair WordPress infrastructure automatically.* > `Python` `Groq API` `Automation`
-
-> **[PocketMind AI](https://github.com/YOUR_USERNAME)** > *A high-performance AI chat interface designed for on-device and cloud operations.* > `Flutter` `Dart` `AI`
-
----
-
-### 📈 System Metrics
+### 🛠️ **The Arsenal**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=00d2ff&text_color=ffffff&icon_color=00d2ff&border_color=00d2ff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=00d2ff&text_color=ffffff&icon_color=00d2ff&border_color=00d2ff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakNum=ffffff" width="100%" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,wordpress,shopify,py,mysql,aws,jenkins,github,figma,postman" />
 </p>
 
 ---
+
+### 💎 **Active Ventures**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&text_color=00d2ff" />
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=pocketmind-ai&theme=tokyonight&show_owner=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=cyphex-core&theme=tokyonight&show_owner=true" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 📊 **Operational Analytics**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&stroke=00B4D8" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-bg=true&margin-w=15" width="49%" />
+</p>
+
+---
+
+### 🐉 **Current Quest**
+> **Current Activity:** Studying Embedded Systems & AI automation.
+> **Latest Achievement:** Successfully integrated Groq API with WP for autonomous repairs.
+> **Watching:** Reincarnated as a Slime (S3) ⚔️
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00b4d8&height=20&section=footer" width="100%" />
 </div>
