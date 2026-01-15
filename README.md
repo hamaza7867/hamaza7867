@@ -1,82 +1,57 @@
-<div align="center">
+# 👋 Hello, I'm Ali Hamza
 
-╼╼╼╼╼╼╼╼ SYSTEM OPERATIONAL: ALI HAMZA ╾╾╾╾╾╾╾╾
+### Web Developer & BSIET Student | Founder of Cyphex Agency
+I am a passionate **Web Developer** from Lahore, Pakistan, currently in my 5th semester at **The University of Lahore**. I specialize in building scalable web solutions and exploring the frontiers of AI-driven automation.
 
-</div>
+---
 
-📂 SYSTEM_PROFILE.log
+### 🚀 Quick Overview
+- 🛠️ **Founder @ Cyphex Agency**: Building **Cyphex Core**, an AI SaaS for WordPress automation.
+- 🎓 **Education**: BS in Information Engineering Technology (2023 - 2027).
+- 🔭 **Current Project**: Refining **PocketMind AI**, a cross-platform chat application.
+- 🎯 **Goal**: Pursuing a fully funded scholarship for international engineering studies.
+- ⚡ **Fun Fact**: Huge fan of **Isekai anime** and magic/reincarnation themes.
 
-identity:
-  name: Ali Hamza
-  origin: Lahore, PK 🇵🇰
-  status: 5th Sem @ UOL | Web Dev @ X2technologies
-  focus: [Autonomous AI Agents, Headless E-Commerce, Embedded Security]
-  mission: "Architecting the intersection of hardware and neural workflows."
+---
 
+### 🛠️ Tech Stack & Tools
 
-🧠 NEURAL CORE (AGENTIC AI & AUTOMATION)
+| Category | Technologies |
+| :--- | :--- |
+| **Web Development** | WordPress, Elementor, Shopify, React |
+| **Mobile Apps** | Flutter, Dart |
+| **Backend & AI** | Python, SQL, Groq API, Machine Learning |
+| **DevOps** | AWS, Jenkins, SonarQube |
+| **Design** | Figma, Adobe Suite |
 
-Processing complex workflows using modern AI orchestration.
+---
 
-PocketMind AI Framework: Designing multi-model interfaces using Flutter & Dart for local/cloud LLM switching.
+### 📊 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
-Autonomous Pipelines: Engineering self-healing workflows via n8n, LangChain, and CrewAI.
+---
 
-Edge Intelligence: Implementing Ollama for privacy-centric local intelligence on distributed nodes.
+### 🌟 Notable Projects
 
-🌐 DIGITAL INFRASTRUCTURE (WEB & CLOUD)
+#### 🤖 [PocketMind AI](https://github.com/YOUR_GITHUB_USERNAME/pocketmind-ai)
+A cross-platform AI chat application supporting multiple operation modes.
+`Flutter` `Dart` `API Integration`
 
-Building scalable, high-performance web ecosystems.
+#### 🔗 [Cyphex Core](https://github.com/YOUR_GITHUB_USERNAME/cyphex-core)
+AI-powered SaaS architecture built to automate WordPress error fixing and maintenance.
+`Python` `Flutter` `Groq API` `WordPress`
 
-Headless E-commerce: Advanced Shopify Liquid architecture for brands like Gleamix and Glowverra.
+#### 🌐 E-commerce Portfolio
+Developed high-performance Shopify stores for **Skin Essence** and **Glowverra**.
+`Shopify` `Liquid` `E-commerce`
 
-Enterprise Solutions: Architecting ISP Management Systems and Local Business Directories with WordPress/PHP.
+---
 
-DevOps Kernel: Automated CI/CD pipelines leveraging Jenkins, SonarQube, and AWS (EC2) for zero-downtime deployments.
+### 📫 Connect with Me
+- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Portfolio**: [cyphex.agency](https://cyphex.agency)
+- **Email**: [your-email@example.com]
 
-⚡ HARDWARE INTERFACE (EMBEDDED SYSTEMS)
-
-Low-level programming and physical security modules.
-
-Biometric Security: Developing Fingerprint & RFID access control via Register-Level Arduino (C++).
-
-IoT Prototyping: Bridging physical sensors with cloud-based monitoring dashboards.
-
-🛠️ TECH_STACK.bin
-
-Layer
-
-Technologies
-
-Logic
-
-Python JavaScript PHP C++ Dart SQL
-
-Interface
-
-React.js Flutter Next.js Tailwind
-
-Platforms
-
-Shopify WordPress AWS GitHub Actions
-
-Intelligence
-
-n8n LangChain CrewAI Ollama
-
-📈 SYSTEM_METRICS
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyourusername%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D2575fc%26icon_color%3D2575fc%26text_color%3Dffffff%26bg_color%3D0D1117" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyourusername%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D2575fc%26text_color%3Dffffff%26bg_color%3D0D1117" width="45%" />
-</div>
-
-📡 COMMS_PROTOCOL
-
-$contact --email hamaza7867@gmail.com$ connect --linkedin "Ali Hamza"
-$ status --agency "Cyphex Agency"
-
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D2575fc%26height%3D100%26section%3Dfooter" width="100%" />
-</div>
+---
+*"Building the digital future, one line of code at a time."*
