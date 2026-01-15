@@ -1,80 +1,84 @@
-# 🚀 Hello World, I'm Ali Hamza! <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="28">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=200&section=header&text=Ali%20Hamza&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Web+Developer+%40+X2technologies;Founder+of+Cyphex+Agency;Flutter+%26+Dart+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
-</p>
+  <p align="center">
+    <strong>Web Developer @ X2technologies | Founder of Cyphex Agency</strong>
+  </p>
 
----
-
-### 👨‍💻 About Me
-- 🎓 **Education:** Pursuing BSIET at **The University of Lahore** (5th Semester).
-- 🏢 **Professional:** Web Developer at **X2technologies** and Founder of **Cyphex Agency**.
-- 🛠️ **Innovation:** Building **Cyphex Core** — an AI SaaS automating WordPress maintenance via Groq API.
-- 🌍 **Mission:** Seeking a fully funded scholarship for international Engineering research.
-- ⚡ **Fun Fact:** I survive on Isekai anime and clean code.
+  <p align="center">
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### ⚡ The Blueprint
+I am a **BSIET Student (5th Sem)** at the **University of Lahore**, specializing in bridging the gap between automated AI systems and modern web architecture. Currently, I am scaling **Cyphex Agency** and developing **Cyphex Core**—a specialized SaaS for autonomous WordPress maintenance.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq_AI-F34F29?style=for-the-badge&logo=openai&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-</p>
+- 🔭 **Current Focus:** Architecting `Cyphex Core` using Python & Groq API.
+- 📱 **Mobile:** Engineering cross-platform solutions like `PocketMind AI` with Flutter/Dart.
+- 🎓 **Academic:** Researching AI & Machine Learning for international scholarship opportunities.
+- 🏮 **Interest:** Isekai enthusiast—fascinated by world-building and magic systems.
 
 ---
 
-### 🧪 Featured Projects
+### 🛠️ Technical Arsenal
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%">
-      <h4>🤖 PocketMind AI</h4>
-      <p>A cross-platform AI chat app supporting cloud and local operation modes.</p>
-      <code>Flutter</code> <code>Dart</code> <code>API Integration</code>
+    <td align="center" width="25%"><strong>Frontend</strong></td>
+    <td align="center" width="25%"><strong>Mobile</strong></td>
+    <td align="center" width="25%"><strong>Backend/AI</strong></td>
+    <td align="center" width="25%"><strong>Operations</strong></td>
+  </tr>
+  <tr>
+    <td>
+      • React.js<br>
+      • WordPress<br>
+      • Elementor<br>
+      • Shopify
     </td>
-    <td width="50%">
-      <h4>⚙️ Cyphex Core (SaaS)</h4>
-      <p>Architecting an AI system to diagnose and fix WordPress errors automatically.</p>
-      <code>Python</code> <code>Groq API</code> <code>Automation</code>
+    <td>
+      • Flutter<br>
+      • Dart
+    </td>
+    <td>
+      • Python<br>
+      • Groq API<br>
+      • MySQL<br>
+      • ML Models
+    </td>
+    <td>
+      • AWS<br>
+      • Jenkins<br>
+      • SonarQube
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 💎 Featured Ventures
 
+> **[Cyphex Core](https://github.com/YOUR_USERNAME)** > *An AI-powered SaaS designed to diagnose and repair WordPress infrastructure automatically.* > `Python` `Groq API` `Automation`
+
+> **[PocketMind AI](https://github.com/YOUR_USERNAME)** > *A high-performance AI chat interface designed for on-device and cloud operations.* > `Flutter` `Dart` `AI`
+
+---
+
+### 📈 System Metrics
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=00d2ff&text_color=ffffff&icon_color=00d2ff&border_color=00d2ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=00d2ff&text_color=ffffff&icon_color=00d2ff&border_color=00d2ff" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakNum=ffffff" width="100%" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Hamza" height="30" width="40" /></a>
-<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Ali Hamza" height="30" width="40" /></a>
-</p>
-
----
-<p align="center">
-  <i>"Continuously learning, building, and scaling."</i><br>
-  <b>Semester 5 @ University of Lahore 🇵🇰</b>
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&text_color=00d2ff" />
+</div>
