@@ -37,12 +37,12 @@
     <td>
       • Local LLMs (Ollama/BitNet)<br>
       • Unrestricted Llama 3.1 Research<br>
-      • AI for Business (DeepLearning.AI)
+      • AI Strategy (DeepLearning.AI)
     </td>
     <td>
       • Android Dev (Meta Certified)<br>
       • Three.js (3D Web Graphics)<br>
-      [cite_start]• SEO & Digital Marketing [cite: 8, 23]
+      • SEO & Digital Marketing
     </td>
     <td>
       • Cybersecurity (IBM Certified)<br>
