@@ -1,77 +1,84 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=ALI%20HAMZA&fontSize=80&animation=fadeIn" width="100%" />
   
-  <h3>🚀 Software Engineer | Web Specialist | Founder of Cyphex Agency</h3>
+  <h3>🚀 Full-Stack AI Engineer | Solo Developer | BSIET @ UOL</h3>
   
   <p>
-    <a href="https://hamaza7867.github.io/Portfolio/"><b>PORTFOLIO</b></a> • 
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><b>LINKEDIN</b></a> • 
-    <a href="mailto:hamaza7867@gmail.com"><b>GMAIL</b></a>
+    <a href="https://hamaza7867.github.io/Portfolio/"><b>3D PORTFOLIO</b></a> • 
+    <a href="https://www.linkedin.com/in/ali-hamza-akbar"><b>LINKEDIN</b></a> • 
+    <a href="mailto:hamaza7867@gmail.com"><b>GMAIL</b></a> •
+    <a href="https://huggingface.co/hamaza7867/unrestricted-llama-3-1"><b>HUGGING FACE</b></a>
   </p>
 </div>
 
 ---
 
 ### ⚡ EXEC_SUMMARY.sh
-* [cite_start]**Current Status:** 5th Semester BSIET Student @ **The University of Lahore** (3.46 CGPA).
-* [cite_start]**Current Role:** Web Developer at **X2technologies** & WordPress Developer at **Lineup Digital**.
-* **Core Venture:** Architecting **Cyphex Core**, an AI SaaS for autonomous WordPress repair.
-* [cite_start]**Education:** Engineering background with A+ Grade in Matriculation Science.
+* **Current Status:** 5th Semester BSIET Student at **The University of Lahore**.
+* **Research Focus:** Architecting **AI Pocket Mind**, a privacy-first hybrid AI ecosystem.
+* **Specialization:** Certified in **Mobile Development (Meta)**, **Cybersecurity (IBM)**, and **AI Strategy (DeepLearning.AI)**.
+* **Solo Engineering:** Expert in full-cycle deployment, from **Arduino-based IoT** to **SEO-optimized Web Apps**.
 
 ---
 
-### 🛠️ TECHNOLOGICAL ARSENAL (Grid View)
+### 🛡️ TECHNICAL ARSENAL (Certified Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,tailwind,react,flutter,dart,py,php,mysql,aws,jenkins,github" />
+  <img src="https://skillicons.dev/icons?i=js,react,threejs,py,cpp,mysql,wordpress,androidstudio,linux,github,kubernetes,docker" />
 </div>
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center"><strong>Frontend & UI</strong></td>
-    <td width="50%" align="center"><strong>Backend & Systems</strong></td>
+    <td width="33%" align="center"><strong>Intelligence & Data</strong></td>
+    <td width="33%" align="center"><strong>Web & Mobile</strong></td>
+    <td width="34%" align="center"><strong>Systems & Security</strong></td>
   </tr>
   <tr>
     <td>
-      • Tailwind CSS & React Development<br>
-      • WordPress & Shopify Customization <br>
-      • Responsive HTML/CSS Architectures 
+      • Local LLMs (Ollama/BitNet)<br>
+      • Unrestricted Llama 3.1 Research<br>
+      • AI for Business (DeepLearning.AI)
     </td>
     <td>
-      • Java, C++, and Python Logic <br>
-      • Groq AI & API Integration<br>
-      • AWS Infrastructure & CI/CD Pipelines
+      • Android Dev (Meta Certified)<br>
+      • Three.js (3D Web Graphics)<br>
+      [cite_start]• SEO & Digital Marketing [cite: 8, 23]
+    </td>
+    <td>
+      • Cybersecurity (IBM Certified)<br>
+      • Kubernetes & Docker<br>
+      • Arduino & Biometrics
     </td>
   </tr>
 </table>
 
 ---
 
-### 💎 FEATURED DEPLOYMENTS
+### 💎 FEATURED DEPLOYMENTS & RESEARCH
 
 <table width="100%">
   <tr>
     <td>
-      <b>📦 Olympia Carrier Services</b><br>
-      <i>Business infrastructure for logistics.</i><br>
-      <a href="https://olympiacarrierservices.com/"><code>Live Deployment</code></a> 
+      <b>🤖 Unrestricted Llama 3.1</b><br>
+      <i>Local LLM fine-tuning & research.</i><br>
+      <a href="https://huggingface.co/hamaza7867/unrestricted-llama-3-1"><code>Model Hub</code></a> 
     </td>
     <td>
-      <b>⚙️ AH-TECH Management</b><br>
-      <i>Custom invoicing & inventory system.</i><br>
-      <a href="https://alihamza835.github.io/AH-TECH/index.html"><code>Web App</code></a> 
+      <b>📱 Android Ecosystems</b><br>
+      <i>Certified Mobile Architectures (Meta).</i><br>
+      <code>SHJ4G6SB02XE</code>
     </td>
   </tr>
   <tr>
     <td>
-      <b>🛍️ Gleamix Store</b><br>
-      <i>Optimized Shopify Tech Hub.</i><br>
-      <a href="https://www.gleamix.store/"><code>E-commerce</code></a> 
+      <b>⚙️ AH-TECH Management</b><br>
+      <i>Invoicing & inventory system.</i><br>
+      <a href="https://alihamza835.github.io/AH-TECH/index.html"><code>Web App</code></a> 
     </td>
     <td>
-      <b>🤖 Cyphex Core (SaaS)</b><br>
-      <i>AI-powered WordPress healing system.</i><br>
-      <code>Internal Beta</code>
+      <b>🛒 Live POS System</b><br>
+      <i>High-performance commerce logic.</i><br>
+      <a href="https://hamaza7867.github.io/pos/"><code>Deployment</code></a>
     </td>
   </tr>
 </table>
@@ -87,6 +94,6 @@
 ---
 
 <div align="center">
-  <i>"Building the digital future, one line of code at a time."</i><br>
-  [cite_start]<b>Language Proficiency: English (Fluent), Urdu (Native), Punjabi (Native)</b> 
+  <i>"Engineered for privacy. Built for performance."</i><br>
+  <b>Language Proficiency: English (Fluent), Urdu (Native), Punjabi (Native)</b> 
 </div>
