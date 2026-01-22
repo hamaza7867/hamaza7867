@@ -1,99 +1,84 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=ALI%20HAMZA&fontSize=80&animation=fadeIn" width="100%" />
-  
-  <h3>🚀 Full-Stack AI Engineer | Solo Developer | BSIET @ UOL</h3>
-  
-  <p>
-    <a href="https://hamaza7867.github.io/Portfolio/"><b>3D PORTFOLIO</b></a> • 
-    <a href="https://www.linkedin.com/in/ali-hamza-akbar"><b>LINKEDIN</b></a> • 
-    <a href="mailto:hamaza7867@gmail.com"><b>GMAIL</b></a> •
-    <a href="https://huggingface.co/hamaza7867/unrestricted-llama-3-1"><b>HUGGING FACE</b></a>
+  <img src="https://capsule-render.vercel.app/render?type=thicket&color=00e5ff&height=250&section=header&text=ALI%20HAMZA&fontSize=90&animation=twinkling&fontColor=ffffff&desc=FULL-STACK%20AI%20SYSTEMS%20ENGINEER&descSize=25&descAlignVertical=130" width="100%" />
+
+  <p align="center">
+    <a href="https://hamaza7867.github.io/Portfolio/"><img src="https://img.shields.io/badge/LIVE_HUD-3D_PORTFOLIO-00e5ff?style=for-the-badge&logo=three.js&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/ali-hamza-akbar"><img src="https://img.shields.io/badge/NEURAL_NET-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://huggingface.co/hamaza7867/unrestricted-llama-3-1"><img src="https://img.shields.io/badge/LLM_CORE-HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
   </p>
 </div>
 
 ---
 
-### ⚡ EXEC_SUMMARY.sh
-* **Current Status:** 5th Semester BSIET Student at **The University of Lahore**.
-* **Research Focus:** Architecting **AI Pocket Mind**, a privacy-first hybrid AI ecosystem.
-* **Specialization:** Certified in **Mobile Development (Meta)**, **Cybersecurity (IBM)**, and **AI Strategy (DeepLearning.AI)**.
-* **Solo Engineering:** Expert in full-cycle deployment, from **Arduino-based IoT** to **SEO-optimized Web Apps**.
+### 📡 SYSTEM_CORE.sh [Initialized...]
+* **Current Vector:** 5th Semester BSIET Specialist @ **The University of Lahore**.
+* **Main Objective:** Engineering **AI Pocket Mind**, a privacy-first hybrid neural ecosystem.
+* **Neural Credentials:** Certified Mobile Architect (**Meta**), Security Specialist (**IBM**), and AI Strategist (**DeepLearning.AI**).
+* **Operational Capacity:** Solo Architect for IoT-Embedded systems and SEO-optimized neural web nodes.
 
 ---
 
-### 🛡️ TECHNICAL ARSENAL (Certified Stack)
+### 🛠️ TECHNOLOGICAL SINGULARITY (Certified Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,threejs,py,cpp,mysql,wordpress,androidstudio,linux,github,kubernetes,docker" />
+  <img src="https://skillicons.dev/icons?i=js,react,threejs,py,cpp,mysql,wordpress,androidstudio,linux,github,kubernetes,docker&theme=dark" />
 </div>
 
+<br>
+
+<div align="center">
+
+| 🧠 INTELLIGENCE | 🌐 INTERFACE | 🔐 SECURITY |
+| :--- | :--- | :--- |
+| **Local LLMs** (Ollama/BitNet) | **Android Dev** (Meta Certified) | **Cybersecurity** (IBM Certified) |
+| **Unrestricted Llama 3.1** Research | **Three.js** 3D Architectures | **K8s & Docker** Orchestration |
+| **AI Strategy** (DeepLearning.AI) | **SEO & Growth Nodes** | **Biometric IoT** Hardware |
+
+</div>
+
+---
+
+### 💎 QUANTUM DEPLOYMENTS
+
 <table width="100%">
   <tr>
-    <td width="33%" align="center"><strong>Intelligence & Data</strong></td>
-    <td width="33%" align="center"><strong>Web & Mobile</strong></td>
-    <td width="34%" align="center"><strong>Systems & Security</strong></td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/PROJECT-UNRESTRICTED_LLAMA_3.1-00e5ff?style=flat-square&logo=gitbook&logoColor=white" /><br>
+      <i>Neural fine-tuning & research.</i><br>
+      <a href="https://huggingface.co/hamaza7867/unrestricted-llama-3-1"><code>ACCESS_CORE</code></a> 
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/PROJECT-ANDROID_ECOSYSTEM-00e5ff?style=flat-square&logo=android&logoColor=white" /><br>
+      <i>Certified Meta Architectures.</i><br>
+      <code>ID: SHJ4G6SB02XE</code>
+    </td>
   </tr>
   <tr>
     <td>
-      • Local LLMs (Ollama/BitNet)<br>
-      • Unrestricted Llama 3.1 Research<br>
-      • AI Strategy (DeepLearning.AI)
+      <img src="https://img.shields.io/badge/PROJECT-AH--TECH_MGMT-00e5ff?style=flat-square&logo=googlecloud&logoColor=white" /><br>
+      <i>Enterprise Inventory Logic.</i><br>
+      <a href="https://alihamza835.github.io/AH-TECH/index.html"><code>EXECUTE_APP</code></a> 
     </td>
     <td>
-      • Android Dev (Meta Certified)<br>
-      • Three.js (3D Web Graphics)<br>
-      • SEO & Digital Marketing
-    </td>
-    <td>
-      • Cybersecurity (IBM Certified)<br>
-      • Kubernetes & Docker<br>
-      • Arduino & Biometrics
+      <img src="https://img.shields.io/badge/PROJECT-LIVE_POS_SYSTEM-00e5ff?style=flat-square&logo=googlepay&logoColor=white" /><br>
+      <i>High-speed Commerce Engine.</i><br>
+      <a href="https://hamaza7867.github.io/pos/"><code>LAUNCH_NODE</code></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 💎 FEATURED DEPLOYMENTS & RESEARCH
-
-<table width="100%">
-  <tr>
-    <td>
-      <b>🤖 Unrestricted Llama 3.1</b><br>
-      <i>Local LLM fine-tuning & research.</i><br>
-      <a href="https://huggingface.co/hamaza7867/unrestricted-llama-3-1"><code>Model Hub</code></a> 
-    </td>
-    <td>
-      <b>📱 Android Ecosystems</b><br>
-      <i>Certified Mobile Architectures (Meta).</i><br>
-      <code>SHJ4G6SB02XE</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>⚙️ AH-TECH Management</b><br>
-      <i>Invoicing & inventory system.</i><br>
-      <a href="https://alihamza835.github.io/AH-TECH/index.html"><code>Web App</code></a> 
-    </td>
-    <td>
-      <b>🛒 Live POS System</b><br>
-      <i>High-performance commerce logic.</i><br>
-      <a href="https://hamaza7867.github.io/pos/"><code>Deployment</code></a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 SYSTEM ANALYTICS
+### 📊 NEURAL ANALYTICS (Live Stream)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamaza7867&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamaza7867&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamaza7867&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 <div align="center">
-  <i>"Engineered for privacy. Built for performance."</i><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Engineered%20for%20privacy.%20Built%20for%20performance." width="100%" />
+  <br>
   <b>Language Proficiency: English (Fluent), Urdu (Native), Punjabi (Native)</b> 
 </div>
