@@ -75,7 +75,7 @@ Client-side, BYOAPI engine converting text prompts into voiceover-ready video as
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamaza7867&theme=redical&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamaza7867&theme=radical&hide_border=true" width="90%" />
 </p>
 
 > **Note:** these widgets pull live data once this file is the actual README.md in your `hamaza7867/hamaza7867` profile repo — they'll show placeholder/zero stats until then.
