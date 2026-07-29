@@ -1,15 +1,19 @@
-<h1 align="center">Hi, I'm Ali Hamza 👋</h1>
-<h3 align="center">Software Engineer — Backend & SaaS Architecture</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ali%20Hamza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%94%20Backend%20%26%20SaaS%20Architecture&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ali-hamza-akbar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://hamaza7867.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:hamaza7867@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ali-hamza-akbar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://hamaza7867.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:hamaza7867@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hamaza7867&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%26+SaaS+Architecture;Real-time+Voice+%26+AI+Pipelines;Building+Voxis+%26+Voiceovers+Digital;Docker+%C2%B7+Go+%C2%B7+Python+%C2%B7+React&font=Fira+Code&center=true&width=600&height=40&color=8e44ad&vCenter=true&size=20" alt="Typing SVG" />
 </p>
 
 I build backend systems and SaaS products end to end — architecture, APIs, containerization, and deployment — increasingly working alongside AI coding agents while keeping design decisions and code review in my own hands.
 
-Currently a **Software Engineer at Comverse Media**, where I own performance engineering, security monitoring, and backend upkeep across a network of 21 international publisher and media platforms.
+Most recently a **Software Engineer at Comverse Media** (Jan 2026 – Jul 2026), where I owned performance engineering, security monitoring, and backend upkeep across a network of 21 international publisher and media platforms. Currently focused on **freelance & independent SaaS projects**.
 
 ---
 
@@ -51,34 +55,30 @@ Client-side, BYOAPI engine converting text prompts into voiceover-ready video as
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,django,js,php,react,angular,astro,tailwind,postgres,mysql,redis,docker,aws,gcp,cloudflare,jenkins,git,githubactions&perline=10" />
+</p>
 
-**Frontend & Architecture**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<p align="center"><b>Systems & APIs:</b> REST APIs · Microservices · WebRTC · Multi-Tenant SaaS &nbsp;|&nbsp; <b>Data/Queue:</b> Celery &nbsp;|&nbsp; <b>Quality:</b> SonarQube · CI/CD</p>
 
-**Systems & APIs**
-REST APIs · Microservices · WebRTC · Multi-Tenant SaaS
+---
 
-**Data**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-Celery
+### 📊 GitHub Stats
 
-**Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
-Jenkins · SonarQube · CI/CD
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamaza7867&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hamaza7867&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamaza7867&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamaza7867&theme=redical&hide_border=true" width="90%" />
+</p>
+
+> **Note:** these widgets pull live data once this file is the actual README.md in your `hamaza7867/hamaza7867` profile repo — they'll show placeholder/zero stats until then.
 
 ---
 
@@ -86,10 +86,10 @@ Jenkins · SonarQube · CI/CD
 
 | Role | Company | Duration |
 |---|---|---|
-| Software Engineer | Comverse Media | Apr 2026 – Present |
+| Freelance & Independent Projects | Self-employed | Ongoing |
+| Software Engineer | Comverse Media | Jan 2026 – Jul 2026 |
 | Full-Stack WordPress Developer | X2 Technologies (with Tech Process LLC) | Sep 2025 – Jan 2026 |
 | Web Developer | Lineup Digital | Mar 2023 – Jan 2025 |
-| Freelance & Independent Projects | Self-employed | Ongoing |
 
 ---
 
@@ -99,7 +99,13 @@ The Full Stack (Meta) · Intro to Android Dev (Meta) · AI For Everyone (DeepLea
 ---
 
 ### 📫 Get in Touch
-- 📧 **Email:** hamaza7867@gmail.com
-- 💼 **LinkedIn:** [ali-hamza-akbar](https://linkedin.com/in/ali-hamza-akbar)
-- 🌐 **Portfolio:** [hamaza7867.github.io/Portfolio](https://hamaza7867.github.io/Portfolio)
-- 📍 Mansoora, Lahore, Pakistan
+
+<p align="center">
+  <a href="mailto:hamaza7867@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ali-hamza-akbar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://hamaza7867.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<p align="center">📍 Mansoora, Lahore, Pakistan</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
